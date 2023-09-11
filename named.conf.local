@@ -1,0 +1,4 @@
+zone "minhaempresa.com.br" {
+    type master;
+    file "/etc/bind/zones/db.minhaempresa.com.br";
+};
